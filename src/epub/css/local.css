@@ -20,3 +20,7 @@ p span.i6{
 	padding-left: 7em;
 	text-indent: -1em;
 }
+
+ol.lower-alpha-list {
+  list-style-type: lower-alpha;
+}
