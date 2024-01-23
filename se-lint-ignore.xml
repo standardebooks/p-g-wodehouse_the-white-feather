@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="local.css">
+		<ignore>
+			<code>c-008</code>
+			<reason>The only way to target this element with a clever selector is with the :first-child pseudo-class, but it doesn't seem to be correctly processed by `se`.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
