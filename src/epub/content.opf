@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85023780</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A student tries to restore his honour among his schoolmates by learning to box.</dc:description>
+		<dc:description id="description">A student tries to restore his honor among his schoolmates by learning to box.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Sheen is a quiet, unassuming student, whose standing in the school’s social hierarchy is irrevocably damaged when he commits a sin of cowardice: he flees from a fight between some of his schoolmates and a group of local boys. This decision leads to a swift and severe ostracization by his school community. Facing this scorn, Sheen must find a way to restore his honour.&lt;/p&gt;
 			&lt;p&gt;Originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine from 1905 to 1906, &lt;i&gt;The White Feather&lt;/i&gt; is one of the first of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse’s&lt;/a&gt; many novels. Wodehouse, renowned for his wit, humor, and engaging storytelling, went on to become one of the most beloved English authors of the 20th century.&lt;/p&gt;
