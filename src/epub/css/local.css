@@ -33,3 +33,7 @@ footer{
 footer p{
 	font-variant: small-caps;
 }
+
+q{
+	font-style: italic;
+}
