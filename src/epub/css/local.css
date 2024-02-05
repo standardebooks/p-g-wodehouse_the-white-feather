@@ -21,7 +21,7 @@ p span.i6{
 	text-indent: -1em;
 }
 
-ol.lower-alpha-list{
+ol:first-of-type{
 	list-style-type: lower-alpha;
 }
 
@@ -30,6 +30,39 @@ footer{
 	text-align: right;
 }
 
-footer p{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+q{
+	font-style: italic;
+}
+
+/* Centered dedications */
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
+section[epub|type~="dedication"] > *{
+	display: inline-block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
+}
+
+@supports(display: flex){
+	section[epub|type~="dedication"]{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
+
+	section[epub|type~="dedication"] > *{
+		margin: 0;
+	}
+}
+/* End centered dedications */
