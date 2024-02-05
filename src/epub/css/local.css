@@ -21,7 +21,7 @@ p span.i6{
 	text-indent: -1em;
 }
 
-ol.lower-alpha-list{
+ol:first-of-type{
 	list-style-type: lower-alpha;
 }
 
