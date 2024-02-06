@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/the-white-feather</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-02-06T15:47:13Z</dc:date>
+		<meta property="dcterms:modified">2024-02-06T15:47:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,14 +37,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A student tries to restore his honor among his schoolmates by learning to box.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Sheen is a quiet, unassuming student, whose standing in the school’s social hierarchy is irrevocably damaged when he commits a sin of cowardice: he flees from a fight between some of his schoolmates and a group of local boys. This decision leads to a swift and severe ostracization by his school community. Facing this scorn, Sheen must find a way to restore his honour.&lt;/p&gt;
+			&lt;p&gt;Sheen is a quiet, unassuming student, whose standing in the school’s social hierarchy is irrevocably damaged when he commits a sin of cowardice: he flees from a fight between some of his schoolmates and a group of local boys. This decision leads him to be swiftly and severely ostracized by his school community. Facing this scorn, Sheen must find a way to restore his honor.&lt;/p&gt;
 			&lt;p&gt;Originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine from 1905 to 1906, &lt;i&gt;The White Feather&lt;/i&gt; is one of the first of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse’s&lt;/a&gt; many novels. Wodehouse, renowned for his wit, humor, and engaging storytelling, went on to become one of the most beloved English authors of the 20th century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6927</dc:source>
 		<dc:source>https://archive.org/details/whitefeather00wodeuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">45878</meta>
+		<meta property="se:reading-ease.flesch">84.37</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_White_Feather</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-white-feather</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
