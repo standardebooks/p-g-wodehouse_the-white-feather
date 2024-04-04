@@ -56,6 +56,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Torsten Gideon Wasastjerna</dc:contributor>
 		<meta property="file-as" refines="#artist">Wasastjerna, Torsten Gideon</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Torsten_Wasastjerna</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2004008092</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne L. Shell</dc:contributor>
