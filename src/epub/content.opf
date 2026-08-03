@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/the-white-feather</dc:identifier>
 		<dc:date>2024-02-06T15:47:13Z</dc:date>
@@ -37,11 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85023780</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A student tries to restore his honor among his schoolmates by learning to box.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A student tries to restore his honor among his schoolmates by learning to box.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Sheen is a quiet, unassuming student, whose standing in the school’s social hierarchy is irrevocably damaged when he commits a sin of cowardice: he flees from a fight between some of his schoolmates and a group of local boys. This decision leads him to be swiftly and severely ostracized by his school community. Facing this scorn, Sheen must find a way to restore his honor.&lt;/p&gt;
 			&lt;p&gt;Originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine from 1905 to 1906, &lt;i&gt;The White Feather&lt;/i&gt; is one of the first of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse’s&lt;/a&gt; many novels. Wodehouse, renowned for his wit, humor, and engaging storytelling, went on to become one of the most beloved English authors of the 20th century.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6927</dc:source>
 		<dc:source>https://archive.org/details/whitefeather00wodeuoft</dc:source>
