@@ -59,8 +59,9 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Torsten Gideon Wasastjerna</dc:contributor>
-		<meta property="file-as" refines="#artist">Wasastjerna, Torsten Gideon</meta>
+		<dc:contributor id="artist">Torsten Wasastjerna</dc:contributor>
+		<meta property="file-as" refines="#artist">Wasastjerna, Torsten</meta>
+		<meta property="schema:alternateName" refines="#artist">Torsten Gideon Wasastjerna</meta>
 		<link href="https://en.wikipedia.org/wiki/Torsten_Wasastjerna" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr2004008092.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
